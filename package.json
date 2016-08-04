@@ -1,0 +1,15 @@
+{
+  "name": "fppin-typescript",
+  "version": "1.0.0",
+  "description": "Playing wiht Typescript types",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.0.0"
+  }
+}
